@@ -1,4 +1,4 @@
-:thought_ballon:
+> :bell:
 # 01 - Node, Yarn, and `package.json`
 
 In this section we will set up Node, Yarn, a basic `package.json` file, and try a package.
@@ -6,6 +6,9 @@ In this section we will set up Node, Yarn, a basic `package.json` file, and try 
 ## Node
 
 > 💡 **[Node.js](https://nodejs.org/)** is a JavaScript runtime environment. It is mostly used for Back-End development, but also for general scripting. In the context of Front-End development, it can be used to perform a whole bunch of tasks like linting, testing, and assembling files.
+💡
+💡
+💡
 
 We will use Node for basically everything in this tutorial, so you're going to need it. Head to the [download page](https://nodejs.org/en/download/current/) for **macOS** or **Windows** binaries, or the [package manager installations page](https://nodejs.org/en/download/package-manager/) for Linux distributions.
 
