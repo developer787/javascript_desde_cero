@@ -9,6 +9,7 @@ In this section we will set up Node, Yarn, a basic `package.json` file, and try 
 💡
 💡
 💡
+📭📮📦💹🗜📆d
 
 We will use Node for basically everything in this tutorial, so you're going to need it. Head to the [download page](https://nodejs.org/en/download/current/) for **macOS** or **Windows** binaries, or the [package manager installations page](https://nodejs.org/en/download/package-manager/) for Linux distributions.
 
