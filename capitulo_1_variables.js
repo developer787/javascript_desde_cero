@@ -28,4 +28,14 @@ Veamos lo que sucede si declaramos una
 variable con un nombre inválido.
 */
 
-var caja vacia;
+//var caja vacia;
+//
+//
+//
+//
+//
+//
+//
+//
+const test = {};
+// more testing
