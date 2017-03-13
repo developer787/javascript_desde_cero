@@ -1,13 +1,14 @@
+console.log('Capítulo 1 - Variables');
 /*
 Capítulo 1 - Variables
 ------------------------
 Javascript tiene una serie de palabras
-reservadas. Una de estas palabras es "var".
+reservadas. Una de estas palabras es "const".
 Veamos como funciona.
 ------------------------
 */
 
-var cajaVacia;
+const cajaVacia;
 
 /*
 Arriba en la linea 10 utilizamos la palabra
@@ -28,14 +29,4 @@ Veamos lo que sucede si declaramos una
 variable con un nombre inválido.
 */
 
-//var caja vacia;
-//
-//
-//
-//
-//
-//
-//
-//
-const test = {};
-// more testing
+//const caja vacia;
