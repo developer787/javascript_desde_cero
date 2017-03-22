@@ -3,7 +3,7 @@
 Una variable es un contenendor para almacenar un valor.
 En el proximo ejemplo podemos ver que la letra "x" es una variable que guarda el valor 5.
 ```js
-	var x = 5;
+  var x = 5;
   let y = 10;
   const z = 20;
 ```
