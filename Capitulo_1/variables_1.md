@@ -12,6 +12,7 @@ Las variables deben ser identificadas con nombres unicos. Esos identificadores p
 ```js
   const suma = x + y + z;
 ```
+***
 Las reglas generales para crear los nombres de variables son las siguientes:
 	1. Los nombres pueden contener letras, digitos, guion bajo ( _ ) y signo de dolar ($).
 	2. Los nombres deben comenzar con una letra.
